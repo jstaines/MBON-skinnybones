@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
-logo: 120x120.gif
+title: Marine Biodiversity Observation Network
+image:
+  feature: feature-image-kelp.JPG
+description: With 13 scientific investigators and 10 partner institutions, the marine biodiversity observation network (MBON) centered on the Santa Barbara Channel is the epitome of collaboration.logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll
+url: //bdoheny.github.io/MBON_skinnybones
 
 # Jekyll configuration
 
@@ -22,16 +23,16 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: Brandon Doheny
+  web: 
+  email: 
+  twitter: 
+  bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus: 
+    ad-client: 
+    ad-slot: 
   disqus-shortname:
 
 
